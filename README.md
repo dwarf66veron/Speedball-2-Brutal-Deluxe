@@ -199,3 +199,6 @@ This repository serves as the official landing page for Speedball 2: Brutal Delu
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Speedball 2: Brutal Deluxe today!**
+
+---
+**Last updated:** 2026-11-06 23:51:24 UTC
