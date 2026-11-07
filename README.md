@@ -201,4 +201,4 @@ This repository serves as the official landing page for Speedball 2: Brutal Delu
 **Get the most recent version of Speedball 2: Brutal Deluxe today!**
 
 ---
-**Last updated:** 2026-11-06 23:51:24 UTC
+**Last updated:** 2026-11-07 03:25:28 UTC
